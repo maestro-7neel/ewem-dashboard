@@ -1,0 +1,1 @@
+This folder is for optional local copies of artwork you have permission to reuse. The current illustrated assets are loaded from their credited source URLs; see README.md and src/data/artworkSources.ts.

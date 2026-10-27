@@ -1,0 +1,18 @@
+export const siteConfig = {
+  brand: 'FIELDNOTES / ECO',
+  studentName: 'Neel Jateen Vaidya',
+  rollNumber: '24102B0026',
+  classDivision: 'TE · CMPN-B',
+  institute: 'Vidyalankar Institute of Technology, Mumbai',
+  courseName: 'E-Waste & Environmental Management',
+  courseCode: 'EWEM',
+  facultyName: 'Prof. Aniket Kundu',
+  academicYear: '2026–27',
+  semester: 'Semester V',
+  courseCredits: '2 credits · HSSM / Value Education',
+  lectureHours: '30 hours',
+  tagline: 'Small actions. A more circular future.',
+  aboutIntro: 'This portfolio brings together academic work exploring e-waste management, environmental responsibility and sustainable resource use. It provides a structured collection of class activities, comparisons, reports, data work and campaign materials in one accessible place.',
+  aboutDetail: 'Electronic waste contains valuable recoverable materials alongside substances that can create environmental and health risks when managed poorly. The work collected here looks at responsible collection, formal recycling, producer responsibility, resource recovery, awareness and circular-economy ideas from several perspectives.',
+  aboutClosing: 'From understanding the problem to exploring more responsible solutions, each entry records a different part of the learning process.',
+}
